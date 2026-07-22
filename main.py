@@ -30,6 +30,7 @@ def get_number_of_lines():
 
     return lines
 
+#main function to run the game
 def main():
     balance = deposit()
     lines=get_number_of_lines()
